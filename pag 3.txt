@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+			
+			<html>
+
+				<head>
+				
+					<title>pagina Educem </title>
+					<meta name="autor"content="SMX">
+					<meta name="description"content>
+					
+				<meta name="keywords"content="SMX1"
+				<meta charset=UTF-8">
+				<link rel="icon" href="./pc.png">
+				
+		         </head>
+
+    	<body>
+
+	    <header>
+		
+
+			<center><h1> <b> <header> Entrega 03 - Àudios </b> </header> </h1></center>
+
+			<center><h2><b><header> by dgutierrez </b></header></h2></center>
+			
+
+		</header>
+
+	<nav>
+
+			<ul>
+
+		<li><a href="#">Àudios</a></li>
+		<li><a href="#">Home</a></li>
+		<li><a href="#">Iframes</a></li>
+		
+
+			</ul>
+
+	</nav>
+
+    <hr>
+
+	<section>
+        
+        <center><h2><b><header> Jazz </b></header></h2></center>
+   <center> <audio  controls autoplay loop  src="audio.mp3" preload="auto"></audio></center>
+ 
+
+   <center><h2><b><header> Electro </b></header></h2></center>
+
+   <center> <audio  controls loop  src="audio.mp3" preload="auto"></audio></center>
+   
+     </section>
+	
+     <p></p>
+            <hr>
+        
+
+            <center><div id="pie"></div><a href="http://educem.net">Web del Moodle</a></center>
+		
+            
+        </body>        
